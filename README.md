@@ -1,1 +1,1 @@
-# chandreshmendapara336-gmail.com
+qr scanner using python
